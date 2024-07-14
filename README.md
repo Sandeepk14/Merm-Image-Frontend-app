@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+# Demo : https://main--mernimage.netlify.app/
+
+# Preview
+
+![image](https://github.com/user-attachments/assets/bd5a1599-2d02-47d4-ad6a-358e14098d60)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
