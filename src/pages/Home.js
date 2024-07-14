@@ -51,7 +51,7 @@ const Home = () => {
                                     <Card.Img
                                         key={index}
                                         style={{ width: '50px', height: '50px', borderRadius: '50%', marginTop: '3px' }}
-                                        src={`http://localhost:4006/uploads/${ele}`}
+                                        src={`${BASE_URL}/uploads/${ele}`}
                                     />
                                 ))}
                             </div>
